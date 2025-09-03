@@ -6,16 +6,15 @@ Nesta primeira parte, estou me baseando principalmente no livro:
 
 Futuramente, talvez eu também revise os livros de **Geometria** e **Álgebra** de *Paulo Winterle* para apresentar a base matemática. Como estou preparando estas notas em caráter de revisão, recomendo que o **primeiro contato** com os assuntos seja feito diretamente pelos livros mencionados.
 
+Vamos começar pelo básico. Neste livro, acredito que trabalharemos principalmente com três unidades fundamentais: o **metro (m)**, o **quilograma (kg)** e o **segundo (s)**. Todas as demais unidades podem ser construídas a partir dessas. Por exemplo, não medimos a **força (Newton)** diretamente; ela precisa ser calculada a partir de outras quantidades, como massa, comprimento e tempo. Isso abre espaço para interpretações diversas e até debates filosóficos sobre o que exatamente significa “força”.
+
+Na minha opinião, a principal característica da **Física** é sua capacidade de **descrever** e **prever** grandezas observáveis. O ponto indiscutível é que as teorias físicas conseguem prever resultados que podem ser medidos — essa é sua principal conexão com a realidade. Já a interpretação das ferramentas matemáticas que levam a essas previsões pertence a um debate filosófico distinto. Por isso quero me concentrar aqui nas **grandezas mensuráveis**, evitando especulações excessivamente abstratas.
+
+Estas notas têm um caráter prático: *“sente-se e calcule”*. A ideia não é rejeitar a discussão sobre como interpretar a estrutura matemática das teorias físicas, mas deixar claro que esse é um debate paralelo e distinto.   Enquanto a parte **quantitativa** (fazer contas e manipular fórmulas) segue regras bem definidas e consensuais, a parte **conceitual** (interpretar o que os cálculos significam) envolve mais controvérsias e menos consenso.  
+
+Essa diferença entre **fazer física** e **entender o que significa o que foi feito** fica ainda mais evidente na mecânica quântica, mas já podemos reconhecê-la desde agora. O campo elétrico existe como uma **entidade física**, mesmo que só possamos medi-lo **indiretamente**, observando como uma carga elétrica é afetada? Existe uma entidade física que corresponda à força, mesmo que apenas a calculemos a partir da variação de posição de um objeto? São essas questões que não procurarei responder.
 
 
-# Ciclo 1
-Coleção Física – Sears, Zemansky, Young, Freedman – Vol 1, 2, 3 e 4
-Algebra e Geometria
+Ensinarei apenas a calcular os valores que podem ser medidos. Para entender meu posicionamento, recomendo a leitura sobre a **teoria do reflexo** e o **materialismo dialético**. Uma boa referência é [The Worldview and Philosophical Methodology of Marxism-Leninism](https://www.banyanhouse.org/product/ebook-the-worldview-and-philosophical-methodology-of-marxism-leninism/).
 
-#Ciclo 2
-Cálculo 1-3
-Equações diferenicais 2
-Mecânica Clássica
-Termodinâmica
-Quantica
-Eletro
+1. https://github.com/jdansb/Fisica/blob/main/FisicaA/Um.ipynb
