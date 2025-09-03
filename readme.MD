@@ -17,4 +17,4 @@ Essa diferença entre **fazer física** e **entender o que significa o que foi f
 
 Ensinarei apenas a calcular os valores que podem ser medidos. Para entender meu posicionamento, recomendo a leitura sobre a **teoria do reflexo** e o **materialismo dialético**. Uma boa referência é [The Worldview and Philosophical Methodology of Marxism-Leninism](https://www.banyanhouse.org/product/ebook-the-worldview-and-philosophical-methodology-of-marxism-leninism/).
 
-1. https://github.com/jdansb/Fisica/blob/main/FisicaA/Um.ipynb
+1. [Descrição do movimento](https://github.com/jdansb/Fisica/blob/main/FisicaA/Um.ipynb)
